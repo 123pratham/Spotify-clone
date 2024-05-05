@@ -1,3 +1,3 @@
-# A Web Music Player Created by PRatham Sahu 
+# A Web Music Player Created by Pratham Sahu !
 
-Have A Look : https://subtle-macaron-afe5fd.netlify.app/
+Gana sunne ke liye link par click kre : 
